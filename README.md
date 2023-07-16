@@ -17,3 +17,7 @@ Want a body tracker/weight loss tracker to track your bodyweight or body shape p
 
 <img width="307" alt="Screenshot 2023-07-16 at 5 33 43 AM" src="https://github.com/palanurag23/Body-Tracker/assets/80236783/324b25e6-4a21-43db-941b-80965ddd1538">
 <img width="583" alt="Screenshot 2023-07-16 at 5 34 22 AM" src="https://github.com/palanurag23/Body-Tracker/assets/80236783/f55da730-a7cc-4209-b76f-ffe0376fcbbb">
+
+## Customer Reviews 
+<img width="865" alt="Screenshot 2023-07-16 at 6 33 17 AM" src="https://github.com/palanurag23/Body-Tracker/assets/80236783/d8c3a4fe-aba4-485a-a4c2-c81364711e49">
+<img width="830" alt="Screenshot 2023-07-16 at 6 33 45 AM" src="https://github.com/palanurag23/Body-Tracker/assets/80236783/f074579c-9ab5-4c53-bed6-de840cc4bc80">
